@@ -1,5 +1,8 @@
 import re
-
+# Resume Analyzer
+# Author: Avishkar (
+# Purpose: Analyze resumes for missing skills using Python regex
+# Date: September 2025
 # ✅ Define important keywords recruiters look for
 important_keywords = [
     "Python", "SQL", "Machine Learning", "Data Analysis",
