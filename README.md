@@ -32,5 +32,10 @@ Output:
 
 I plan to extend this project to read resumes directly from PDF files and rank candidates.
 
+## 🚀 Projects
+
+- [Hello Demo](projects/hello_demo) → A simple Python + Pandas bar chart demo  
+- [Resume Analyzer](projects/resume_analyzer) → Checks resumes for missing skills
+
 
 
